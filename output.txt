@@ -1,0 +1,13 @@
+can	1
+is	4
+me	1
+name	1
+ok	5
+tell	1
+thank	1
+that	1
+this	3
+what	4
+who	2
+you	1
+your	1
